@@ -1,0 +1,2 @@
+##Don't push env variables
+.env

@@ -1,0 +1,17 @@
+[theme]
+base="light"
+
+# Brand Teal (Links, Buttons, Highlights)
+primaryColor="#00AAA0"
+
+# Clean white background wie auf der Website
+backgroundColor="#FFFFFF"
+
+# Leicht abgesetzte Flächen (Sidebar, Widgets, Container)
+secondaryBackgroundColor="#F3F7F7"
+
+# Dunkler Text
+textColor="#0F172A"
+
+# Streamlit Fonts
+font="sans serif"
